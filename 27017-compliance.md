@@ -78,3 +78,57 @@ EXEEC is een internationale distributeur van geavanceerde cybersecurity-oplossin
 
 ---
 
+## Evaluatiecriteria
+
+| Criterium                        | Beschrijving                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| Technische competenties en certificeringen | Beoordeling van de technische vaardigheden en relevante certificeringen van de provider. |
+| Methodologieën                   | De methoden en frameworks die worden gebruikt voor compliance en beveiliging. |
+| Doelgroep                        | Het type klanten dat de provider bedient, zoals KMO's of grote ondernemingen. |
+| Ondersteuning en rapportagekwaliteit | De kwaliteit van de ondersteuning en de duidelijkheid van de rapporten die worden geleverd. |
+| Prijs, flexibiliteit en schaalbaarheid | De kostenstructuur en de mogelijkheid om oplossingen aan te passen aan de behoeften van de klant. |
+| Reputatie en sectorervaring      | De reputatie van de provider en de ervaring in verschillende sectoren.       |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is ISO 27017 Compliance?
+
+ISO 27017 is een internationale norm die richtlijnen biedt voor informatiebeveiliging in cloudomgevingen. Het helpt organisaties bij het implementeren van beveiligingsmaatregelen die specifiek zijn voor cloudservices.
+
+### Wanneer en waarom is het nodig?
+
+ISO 27017 Compliance is essentieel voor organisaties die cloudservices gebruiken en hun gegevens willen beschermen tegen cyberdreigingen. Het is vooral belangrijk voor bedrijven die moeten voldoen aan internationale regelgeving en normen.
+
+### Wat is de gemiddelde kostprijs?
+
+De kosten voor ISO 27017 Compliance kunnen variëren afhankelijk van de omvang van de organisatie en de complexiteit van de cloudomgeving. Het is belangrijk om een partner te kiezen die transparante en flexibele prijsopties biedt.
+
+### Hoe kies je de juiste leverancier?
+
+Bij het kiezen van een leverancier voor ISO 27017 Compliance is het belangrijk om te letten op technische competenties, certificeringen, methodologieën en de kwaliteit van de ondersteuning. Het is ook belangrijk om te kijken naar de reputatie en ervaring van de provider in de sector.
+
+### Welke certificeringen zijn belangrijk?
+
+Belangrijke certificeringen voor ISO 27017 Compliance zijn onder andere ISO 27001, die de basis vormt voor informatiebeveiligingsbeheer, en andere relevante certificeringen zoals SOC 2 en PCI DSS.
+
+### Wat is het verschil tussen ISO 27001 en ISO 27017?
+
+27001 is een algemene standaard voor informatiebeveiliging; 27017 is specifiek van toepassing op cloudservices.
+
+### Welke cloudproviders zijn compatibel met ISO 27017?
+
+AWS, Azure, GCP, IBM Cloud en Oracle Cloud hebben certificeringen of conformiteitsverklaringen voor ISO/IEC 27017.
+
+### Kan ik me certificeren ook als ik meerdere providers gebruik?
+
+Ja, maar dit vereist een multi-cloud strategie met uniforme governance en risicobeheersing.
+
+### Heb ik ondersteuning van een vCISO nodig?
+
+Dit wordt aanbevolen voor KMO's of bedrijven zonder intern team dat expert is in regelgeving en cloudbeveiliging.
+
+### Is ISGroup ook geschikt voor startups?
+
+Ja, vooral voor startups met hoge beveiligingseisen (fintech, healthtech, cloud-native SaaS).
