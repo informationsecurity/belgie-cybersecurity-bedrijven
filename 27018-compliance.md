@@ -78,3 +78,56 @@ EXEEC is een gespecialiseerde distributeur in offensieve en cloud-native technol
 ---
 
 ## Evaluatiecriteria
+
+| Criterium                        | Beschrijving                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Technische competenties**      | ISO-certificeringen, ervaring in cloudbeveiliging, gecertificeerd team      |
+| **Methodologieën**               | Gap-analyse, audit, toegangscontrole, gegevensclassificatie                 |
+| **Doelgroep**                    | KMO's, enterprise, overheid, gereguleerde omgevingen                        |
+| **Ondersteuning en rapportage**  | Kwaliteit van documentatie, remediatie, continue ondersteuning              |
+| **Flexibiliteit en prijs**       | Aangepaste diensten, schaalbaarheid, modulariteit                           |
+| **Reputatie**                    | Casestudies, getuigenissen, behaalde certificeringen                        |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is 27018 Compliance?
+
+ISO/IEC 27018 is een internationale standaard voor de bescherming van persoonlijke gegevens (PII) in clouddiensten. Het specificeert technische, contractuele en organisatorische controles die providers moeten aannemen om privacy en veiligheid te garanderen.
+
+### Wanneer en waarom is het nodig?
+
+Het is fundamenteel voor wie persoonlijke gegevens in de cloud beheert, vooral in gereguleerde sectoren of met Europese klanten. Het maakt het mogelijk om accountability en naleving van GDPR aan te tonen.
+
+### Wat zijn de gemiddelde kosten?
+
+Het hangt af van het niveau van personalisatie, de complexiteit van de cloudomgeving en de huidige staat van documentatie. KMO's kunnen beginnen vanaf enkele duizenden euro's, grote bedrijven vanaf tienduizenden.
+
+### Hoe kies je de juiste leverancier?
+
+Evalueer ervaring, certificeringen, post-audit ondersteuning en het vermogen om zich aan te passen aan je specifieke behoeften. De checklist van deze gids helpt je alternatieven gestructureerd te vergelijken.
+
+### Welke certificeringen zijn belangrijk?
+
+ISO/IEC 27001 (vereiste), ISO/IEC 27018, SOC 2, GDPR-gereedheid. Let ook op de compliance van cloudproviders (bijv. AWS, Azure, GCP).
+
+### Wie is verantwoordelijk voor compliance in de cloud?
+
+Volgens het model van gedeelde verantwoordelijkheid hebben zowel de klant als de provider specifieke rollen. ISO 27018 helpt deze grenzen te definiëren en elke activiteit te documenteren.
+
+### Is het ook nodig voor SaaS?
+
+Ja, vooral voor software die gevoelige gegevens van gebruikers of klanten verwerkt. Het is een concurrentievoordeel ten opzichte van eindklanten en in openbare aanbestedingen.
+
+### Is de certificering van de cloudprovider voldoende?
+
+Nee. De verantwoordelijkheid blijft ook bij de verwerkingsverantwoordelijke (jij). Je moet beleid, controles en beveiligingspraktijken gedurende de hele levenscyclus van gegevens verifiëren.
+
+### Kan ik me certificeren ook als ik meerdere cloudproviders gebruik?
+
+Ja. Sommige bedrijven bieden multi-cloud oplossingen en tools om ISO 27018-compliance te beheren ook in complexe en gedistribueerde omgevingen.
+
+### Bestaan er automatische tools voor compliance?
+
+Ja. Sommige providers bieden tools voor gegevensclassificatie, loganalyse, beleidscontrole en audittrail. Menselijke begeleiding blijft echter essentieel voor echte compliance.
