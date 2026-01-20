@@ -78,3 +78,38 @@ EXEEC is een internationale distributeur van geavanceerde cybersecurity-oplossin
 
 ---
 
+## Criteria voor evaluatie
+| Criteria                        | Beschrijving                                                                 |
+|---------------------------------|----------------------------------------------------------------------------|
+| Technische competenties en certificeringen | Beoordeling van de technische expertise en relevante certificeringen van de aanbieder. |
+| Methodologieën                  | De gebruikte methodologieën voor Anti-DDoS-bescherming.                    |
+| Doelgroep                       | Het type klanten waarop de aanbieder zich richt.                           |
+| Ondersteuning, SLA, rapportagekwaliteit | De kwaliteit van de ondersteuning, service level agreements en rapportage. |
+| Prijs, flexibiliteit en schaalbaarheid | De kostenstructuur en de mogelijkheid om diensten aan te passen aan de behoeften van de klant. |
+| Reputatie, use cases, bediende sectoren | De reputatie van de aanbieder en de sectoren waarin ze actief zijn.       |
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is Anti-DDoS?
+Anti-DDoS verwijst naar technologieën en diensten die zijn ontworpen om Distributed Denial of Service (DDoS)-aanvallen te detecteren en te mitigeren, waardoor de beschikbaarheid van online diensten wordt gegarandeerd.
+
+### Wanneer en waarom is het nodig?
+Anti-DDoS is essentieel voor bedrijven die afhankelijk zijn van online diensten, omdat DDoS-aanvallen de beschikbaarheid van deze diensten kunnen verstoren en aanzienlijke financiële en reputatieschade kunnen veroorzaken.
+
+### Wat is de gemiddelde kostprijs?
+De kosten van Anti-DDoS-diensten variëren afhankelijk van de complexiteit en schaal van de bescherming, maar er zijn flexibele prijsmodellen beschikbaar die passen bij verschillende budgetten.
+
+### Hoe kies je de juiste leverancier?
+Bij het kiezen van een Anti-DDoS-leverancier is het belangrijk om te kijken naar technische competenties, methodologieën, doelgroep, ondersteuning, prijs en reputatie.
+
+### Welke certificeringen zijn belangrijk?
+Belangrijke certificeringen voor Anti-DDoS-diensten zijn onder andere ISO 27001 voor informatiebeveiliging en andere relevante industriestandaarden die de kwaliteit en betrouwbaarheid van de diensten garanderen.
+
+### Wie loopt het meeste risico in België?
+Banken, overheidsinstanties, zorgorganisaties, e-commerce bedrijven, infrastructuuroperators, online media en cloud providers lopen het grootste risico op DDoS-aanvallen.
+
+### Hoeveel kost een Anti-DDoS dienst?
+Dit hangt af van het type bescherming: van gratis oplossingen (Cloudflare) tot enterprise diensten van €5.000/jaar tot €100.000/jaar voor mission-critical omgevingen.
+
+### Is Anti-DDoS bescherming verplicht?
+Niet altijd wettelijk verplicht, maar wel vereist in veel tenders, overheidscontracten en enterprise overeenkomsten. Het is ook noodzakelijk voor ISO/IEC 27001 en NIS2 compliance.
