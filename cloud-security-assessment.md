@@ -78,3 +78,39 @@ EXEEC is een internationale distributeur van geavanceerde cybersecurity-oplossin
 
 ---
 
+## Criteria voor evaluatie
+
+| Criteria                        | Beschrijving                                                                 |
+|---------------------------------|----------------------------------------------------------------------------|
+| Technische competenties en certificeringen | Beoordeling van de technische vaardigheden en certificeringen van de provider. |
+| Methodologieën                  | De methodologieën die worden gebruikt voor cloud security assessments.      |
+| Doelgroep                       | Het type klanten waarvoor de diensten zijn ontworpen.                       |
+| Ondersteuning en rapportage     | Kwaliteit van de ondersteuning en de rapporten die worden geleverd.         |
+| Prijs en flexibiliteit          | De kosten van de diensten en de flexibiliteit van de oplossingen.           |
+| Reputatie en cases              | De reputatie van de provider en de sectoren die ze bedienen.                |
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Cloud Security Assessment?
+Een Cloud Security Assessment is een evaluatie van de beveiligingsmaatregelen en -procedures van een cloudomgeving om kwetsbaarheden en risico's te identificeren.
+
+### Wanneer en waarom is het nodig?
+Het is nodig wanneer een organisatie haar cloudinfrastructuur wil beveiligen tegen dreigingen en wil voldoen aan regelgeving zoals GDPR en NIS2.
+
+### Wat is de gemiddelde kostprijs?
+De kosten variëren afhankelijk van de omvang en complexiteit van de cloudomgeving, maar kunnen variëren van enkele duizenden tot tienduizenden euro's.
+
+### Hoe kies je de juiste leverancier?
+Kies een leverancier op basis van technische competenties, certificeringen, methodologieën, doelgroep, ondersteuning, prijs en reputatie.
+
+### Welke certificeringen zijn belangrijk?
+Belangrijke certificeringen zijn onder andere ISO 27001, CISSP, CCSP, en cloudspecifieke certificeringen zoals AWS, Azure en GCP.
+
+### Hoe lang duurt een volledig assessment?
+Van 5 dagen (basis assessment) tot 3-4 weken voor multicloud en gereguleerde omgevingen.
+
+### Kan ik een CSA doen ook als ik SaaS gebruik?
+Ja, het wordt aanbevolen. Het maakt het mogelijk om configuraties, toegangen, logging, contracten en beheer van de gebruikerslevenscyclus te verifiëren.
+
+### Welk type rapport krijg ik?
+De beste providers leveren technische rapporten, executive summary, risicoscoring, KPI's, kwetsbaarheidskaart en remediation roadmap.
