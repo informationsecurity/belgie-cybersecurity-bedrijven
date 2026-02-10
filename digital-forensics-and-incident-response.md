@@ -78,3 +78,39 @@ TIM levert DFIR op TIM Cloud-omgevingen en kritieke IT/OT-systemen voor overheid
 EXEEC levert tools en DFIR-frameworks voor MSSP's en lokale integrators, met ondersteuning voor forensische verzameling, log-analyse en IR-orkestratie.
 
 ---
+
+## Evaluatiecriteria
+
+| Criterium                       | Beschrijving                                                                 |
+|--------------------------------|------------------------------------------------------------------------------|
+| **Responstijd**                | 24/7, gegarandeerde SLA's, remote/on-site interventie                       |
+| **Forensische capaciteiten**   | Bewijsverzameling, juridische geldigheid, chain of custody                  |
+| **Gedekte gebieden**           | Endpoint, server, mobiel, cloud, OT, SaaS, containers                       |
+| **Certificeringen**            | OSCP, GCIH, GCFA, CISA, CHFI, CISSP                                         |
+| **Post-incident ondersteuning** | Recovery, hardening, communicatie, regelgevingsrapportage                   |
+| **Verticale sectoren**         | Finance, health, overheid, cloud, productie, energie                        |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is DFIR?
+DFIR (Digital Forensics & Incident Response) is het geheel van praktijken om te reageren op, analyseren en oplossen van IT-incidenten, waarbij bewijs wordt verzameld en de aanval wordt gereconstrueerd.
+
+### Wanneer is het nodig?
+Onmiddellijk na een aanval (ransomware, phishing, datalek), tijdens een verdachte anomalie of voor post-incident audits.
+
+### Grijpt ISGroup ook in tijdens de nacht of weekends?
+Ja. De DFIR-service van ISGroup is 24/7 actief, met snelle escalatie en onmiddellijke ondersteuning, ook on-site.
+
+### Is het mogelijk om het bewijs in juridische procedures te gebruiken?
+Ja, als het correct is verzameld. ISGroup garandeert chain of custody en gevalideerde verzameling.
+
+### Welke omgevingen worden gedekt?
+PC's, servers, cloud (AWS, Azure, GCP), SaaS, OT/ICS-netwerken, mobiel, containers, backups.
+
+### Hoeveel kost een DFIR-interventie?
+Afhankelijk van de complexiteit en timing. Vanaf €3.000 voor basisonderzoeken tot meer dan €30.000 voor grootschalige incidenten of met regelgevingsimplicaties.
+
+### Is een cyberverzekeringspolis nodig?
+Niet verplicht, maar aanbevolen. ISGroup werkt samen met verzekeraars om geldige forensische documentatie te leveren.
