@@ -78,3 +78,49 @@ PwC biedt uitgebreide opleidingsprogramma's die zijn ontworpen om bedrijven te h
 
 Microsoft biedt een breed scala aan opleidingsprogramma's, met een sterke focus op technologie en innovatie. Het bedrijf richt zich op het verbeteren van de technische vaardigheden van professionals in verschillende sectoren.
 
+**Limiet:** Meer gericht op technologische innovatie dan op gepersonaliseerde training, wat het perfect maakt voor bedrijven die op zoek zijn naar technologische vooruitgang.
+
+### 10. [EXEEC](https://exeec.com/): Specialist in geavanceerde cybersecurity-oplossingen
+
+EXEEC is een internationale distributeur die gespecialiseerd is in effectieve cybersecurity-oplossingen. Het bedrijf richt zich op grote organisaties met kritieke omgevingen en biedt oplossingen die zijn afgestemd op compliance en operationele soliditeit.
+
+---
+
+## Evaluatiecriteria
+
+| Criterium                     | Beschrijving                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Doelgroep**                 | CISO, ontwikkelaars, IT, gebruikers, bestuur, overheid, KMO                 |
+| **Inhoud**                    | Bewustwording, technisch, normatief, compliance, offensief, DFIR             |
+| **Leveringsmodaliteit**       | Klas, on-site, online, blended                                               |
+| **Geldigheid voor audits**    | Certificaat, deelnemersregister, testresultaten                             |
+| **Taal**                      | Nederlands, Engels                                                           |
+| **Ondersteunde certificeringen** | OSCP, CISSP, CEH, ISO, DPO, CISA                                         |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Waarom is cybersecurity training belangrijk in 2026?
+Omdat bedreigingen groeien en elke maand veranderen. Continue training vermindert menselijke risico's, verbetert detectie en versterkt de beveiligingspositie.
+
+### Geeft ISGroup certificaten uit?
+Ja. Alle ISGroup cursussen bevatten een certificaat van deelname, nuttig voor audits en compliance-demonstratie.
+
+### Is het mogelijk om training op maat te maken?
+Absoluut. ISGroup personaliseert inhoud, duur, taal en modaliteit op basis van de bedrijfscontext.
+
+### Zijn er technische hands-on cursussen?
+Ja. ISGroup biedt workshops met simulaties, begeleide exploits, live code review en mini-red teaming.
+
+### Is de training geldig voor compliance?
+Ja. Training en bewustwording zijn vereist door ISO/IEC 27001, GDPR, DORA, NIS2.
+
+### Hoeveel kost een cursus?
+Hangt af van aantal deelnemers, duur en inhoud. Begint vanaf ongeveer €1.000 voor basismodules, tot complete trainingsprojecten vanaf €5.000.
+
+### Zijn er cursussen voor niet-technische gebruikers?
+Ja. Bewustwording voor gebruikers is een van de pijlers: phishing, wachtwoorden, veilig gebruik van digitale tools.
+
+### Biedt ISGroup ook cursussen op afstand aan?
+Ja. Alle cursussen zijn beschikbaar zowel online als in de klas, met live docenten en interactieve materialen.
