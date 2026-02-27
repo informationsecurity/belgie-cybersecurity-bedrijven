@@ -78,3 +78,48 @@ PwC biedt uitgebreide diensten voor gegevensprivacy en GDPR-compliance, met een 
 
 Accenture biedt geïntegreerde oplossingen voor gegevensbeheer en GDPR-compliance, bijzonder nuttig voor bedrijven die al SAP-systemen gebruiken. Hun ervaring in de technologiesector maakt hen een betrouwbare partner voor de implementatie van complexe oplossingen.
 
+**Limiet:** Ideaal voor bedrijven met complexe IT-infrastructuren, minder geschikt voor wie op zoek is naar eenvoudige en directe oplossingen.
+
+### 10. [EXEEC](https://exeec.com/): White-label GDPR oplossingen voor MSSP's en advocatenkantoren
+
+EXEEC is een internationale distributeur van geavanceerde cybersecurity-oplossingen, gericht op grote organisaties met kritieke omgevingen. Het bedrijf biedt GDPR toolkits en ondersteuning voor wie consultancy in privacy-gebied doorverkoopt of levert, met geïntegreerde platforms.
+
+---
+
+## Evaluatiecriteria
+
+| Criterium                       | Beschrijving                                                                 |
+|---------------------------------|------------------------------------------------------------------------------|
+| **Benadering**                  | Alleen juridisch, technisch+juridisch, managementgericht                    |
+| **Aangeboden diensten**         | Register, DPIA, breach, DPO-ondersteuning, training, technische maatregelen |
+| **Compliance integratie**       | ISO, ACN, NIS2, DORA                                                        |
+| **Leveringswijze**              | On-site, online, platform, continue consultancy                             |
+| **Verticale sectoren**          | Overheid, financiën, zorg, telecom, cloud, KMO's, kantoren                 |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wie moet GDPR-compliant zijn?
+Alle bedrijven, instellingen en organisaties die persoonsgegevens van EU-burgers verwerken, ongeacht de grootte.
+
+### Wat is een DPIA?
+Het is een Gegevensbeschermingseffectbeoordeling. Verplicht wanneer een verwerking hoge risico's kan inhouden voor de rechten en vrijheden van personen.
+
+### Biedt ISGroup ook DPO-ondersteuning?
+Ja. ISGroup kan een interne DPO ondersteunen of optreden als externe DPO, met tools, training en continue ondersteuning.
+
+### Hoeveel kost een GDPR-project?
+Voor KMO's begint het vanaf €3.000, voor gestructureerde bedrijven of multi-site overschrijdt het de €15.000, vooral als technische analyse wordt meegenomen.
+
+### Wat gebeurt er bij een inspectie van de toezichthouder?
+Je moet accountability kunnen aantonen: bijgewerkte documentatie, bewijs van genomen maatregelen, beheerprocessen.
+
+### Is informatiebeveiliging onderdeel van GDPR?
+Absoluut ja. GDPR vereist adequate technische maatregelen. ISGroup integreert audit, pentest, encryptie, DLP en SOC.
+
+### Dekt GDPR ook gegevens in de cloud?
+Ja. Alle persoonsgegevens, waar ze ook worden verwerkt, zijn onderworpen aan dezelfde regels.
+
+### Moet compliance elk jaar opnieuw worden gedaan?
+Compliance moet worden onderhouden en bijgewerkt. ISGroup biedt jaarlijkse check-ups, documentatie-updates en terugkerende technische tests.
