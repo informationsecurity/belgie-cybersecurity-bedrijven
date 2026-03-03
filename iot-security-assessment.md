@@ -78,3 +78,44 @@ PwC biedt wereldwijde IoT-beveiligingsdiensten met een focus op compliance en ri
 Onderzoeks- en testlaboratorium voor slimme apparaten, met focus op radio-kwetsbaarheden, firmware, protocollen en ETSI EN 303 645 standaarden.
 
 **Limiet:** Meer gericht op onderzoek dan op productie, ideaal voor innovatieve projecten maar minder geschikt voor standaard commerciële assessments.
+
+### 10. [EXEEC](https://exeec.com/): Specialist in geavanceerde IoT-beveiliging
+
+EXEEC is een internationale distributeur van geavanceerde cybersecurity-oplossingen, gespecialiseerd in offensive security en cloudbescherming. Het ondersteunt grote organisaties met kritieke omgevingen door middel van technische oplossingen met hoge impact en continue specialistische ondersteuning.
+
+---
+
+## Evaluatiecriteria
+
+| Criterium                        | Beschrijving                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Gedekte gebieden**             | Embedded, firmware, radio, API, cloud, mobile, edge                          |
+| **Gebruikte technieken**         | Reverse engineering, fuzzing, hardware hacking, sniffing                     |
+| **Certificeringen**              | OSCP, OSEE, OSEP, CRTO, CEH                                                  |
+| **Ondersteunde compliance**      | NIS2, MDR, ISO/IEC 27001, ETSI, OWASP IoT Top 10                             |
+| **Rapportage en remediation**    | Exploit chain, CVSS, technische aanbevelingen, prioriteiten                  |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een IoT Security Assessment?
+Het is een technische evaluatie van de beveiliging van IoT-apparaten, firmware, communicatie en verbonden infrastructuur.
+
+### Wie zou dit moeten doen?
+Wie IoT-apparaten ontwikkelt, produceert of integreert; bedrijven met OT/ICS-omgevingen; startups met slimme producten.
+
+### Voert ISGroup ook tests uit op medische apparaten?
+Ja. De analyse voldoet aan MDR-standaarden, ISO 27001, en kan CE-certificering ondersteunen.
+
+### Hoe lang duurt een assessment?
+Van 2 tot 4 weken afhankelijk van de complexiteit van het apparaat, firmware en backend.
+
+### Is het wettelijk verplicht?
+Nog niet in het algemeen, maar vereist voor MDR-producten, openbare aanbestedingen, overheidsomgevingen, en in NIS2-contexten.
+
+### Hoeveel kost het?
+Tussen €4.000 en €25.000, afhankelijk van het aantal apparaten, firmware-complexiteit, interfaces en protocollen.
+
+### Omvat ISGroup ook mobiele apps?
+Ja, het assessment dekt de hele keten: IoT-apparaat, companion app (iOS/Android), backend API's en cloud-infrastructuur.
