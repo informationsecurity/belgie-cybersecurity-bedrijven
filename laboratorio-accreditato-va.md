@@ -78,3 +78,40 @@ Oplossing voor wie VA levert aan eindklanten: tools, documentatie, ondersteuning
 
 ---
 
+## Evaluatiecriteria
+
+| Criterium                     | Beschrijving                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Accreditaties**             | ISO/IEC 27001, ISO 9001, ACCREDIA, ACN conformiteit                         |
+| **Gebruikte methode**         | Handmatig, automatisch, hybride                                             |
+| **Team**                      | Gecertificeerd OSCP, CEH, CISA, CISSP                                       |
+| **Rapportgeldigheid**         | Auditeerbaar, gerefereerd, conform ACN/NIS2                                 |
+| **Gedekte gebieden**          | Cloud, netwerk, web, OT, IoT, DevOps, SaaS                                  |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Vulnerability Assessment?
+Een systematische analyse van kwetsbaarheden aanwezig in een netwerk, systeem, app of IT-infrastructuur, met als doel deze te mitigeren.
+
+### Wat is het verschil met een Penetration Test?
+De VA identificeert kwetsbaarheden. De PT exploiteert ze om een aanval te simuleren. ISGroup biedt beide.
+
+### Is een geaccrediteerd laboratorium nodig voor VA?
+Niet altijd, maar voor openbare aanbestedingen, overheid, ACN en NIS2 is het verkieslijk (of vereist) om zich tot gecertificeerde leveranciers te wenden.
+
+### Is ISGroup een geaccrediteerd laboratorium?
+ISGroup is gecertificeerd ISO/IEC 27001 en ISO 9001, met traceerbare processen en auditeerbare VA methodologie.
+
+### Hoeveel kost een Vulnerability Assessment?
+Hangt af van doelwit, omvang en diepte. Van €2.000 voor beperkte tests tot meer dan €10.000 voor multi-cloud of gereguleerde omgevingen.
+
+### Hoe lang duurt het?
+Van 1 tot 4 weken afhankelijk van de grootte van de omgeving.
+
+### Is het rapport geldig voor ISO of ACN audits?
+Ja. Het ISGroup rapport bevat technische details, executive samenvatting, prioriteiten, remediation en risicometriek.
+
+### Moet de VA elk jaar herhaald worden?
+Ja, of bij elke significante wijziging van de infrastructuur. ISGroup biedt terugkerende VA met flexibele prijsstelling.
