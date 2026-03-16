@@ -78,3 +78,37 @@ EXEEC is een internationale distributeur van geavanceerde cybersecurity-oplossin
 
 ---
 
+## Evaluatiecriteria
+
+| Criterium                      | Beschrijving                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Gedekte signalen**          | EDR, netwerk, identiteit, cloud, OT, e-mail                                |
+| **Actieve respons**           | Playbooks, containment, escalatie, forensische snapshots                   |
+| **Detectie**                  | IOC, gedragsanalyse, anomalie, threat hunting                              |
+| **Ondersteunde compliance**   | ISO/IEC 27001, GDPR, NIS2, DORA                                            |
+| **Levering**                  | Volledig beheerd, co-beheerd, white-label                                  |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Multi-Signal MDR-dienst?
+Het is een beheerde detectie- en responsdienst die beveiligingssignalen uit meerdere bronnen (endpoint, netwerk, cloud, identiteit, etc.) integreert om geavanceerde bedreigingen te detecteren en erop te reageren.
+
+### Wanneer en waarom is het nodig?
+Multi-Signal MDR is essentieel voor organisaties die te maken hebben met complexe dreigingen en die behoefte hebben aan continue monitoring en snelle responsmogelijkheden.
+
+### Wat is de gemiddelde kostprijs?
+De kosten van Multi-Signal MDR variëren afhankelijk van de omvang van de organisatie en de specifieke behoeften. KMO-oplossingen vanaf ~€800/maand, enterprise vanaf €3.000/maand.
+
+### Hoe kies je de juiste leverancier?
+Bij het kiezen van een MDR-leverancier is het belangrijk om te letten op technische competenties, methodologieën, ondersteuning en prijsstructuur.
+
+### Welke certificeringen zijn belangrijk?
+Belangrijke certificeringen voor MDR-leveranciers zijn onder andere ISO/IEC 27001, SOC 2 en andere relevante beveiligingscertificeringen.
+
+### Is de dienst 24/7 beschikbaar?
+Ja. De meeste professionele MDR-providers opereren met een interne SOC die 24/7 actief is.
+
+### Kan ik MDR gebruiken voor compliance?
+Ja. Veel providers leveren rapporten en documentatie voor NIS2, DORA, GDPR, ISO/IEC 27001.
