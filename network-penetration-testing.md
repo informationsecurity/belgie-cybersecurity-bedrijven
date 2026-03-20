@@ -78,3 +78,40 @@ EXEEC is een internationale distributeur van geavanceerde cybersecurity-oplossin
 
 ---
 
+## Evaluatiecriteria
+
+| Criterium                       | Beschrijving                                                                 |
+|--------------------------------|------------------------------------------------------------------------------|
+| **Scope**                      | Intern, extern, DMZ, cloud, hybrid, AD, OT                                  |
+| **Methode**                    | Handmatig, echte exploitation, geen false positives                         |
+| **Technieken**                 | MITRE ATT&CK, red team, privilege escalation, AD attacks                    |
+| **Certificeringen**            | OSCP, CRTO, CISSP, CISA, CEH                                                |
+| **Ondersteunde compliance**    | ISO/IEC 27001, NIS2, GDPR, DORA                                             |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Network Penetration Test?
+Een test die een aanval op een bedrijfsnetwerk simuleert om kwetsbaarheden te identificeren die daadwerkelijk uitbuutbaar zijn door een aanvaller.
+
+### Doet ISGroup ook tests op Active Directory?
+Ja. Aanvallen op AD zijn een kernonderdeel van de tests: golden ticket, Kerberoasting, ACL abuse, RBCD, LLMNR spoofing.
+
+### Wordt de PT handmatig uitgevoerd of met automatische tools?
+Handmatig. Tools dienen alleen ter ondersteuning. De exploitation en strategie worden uitgevoerd door ISGroup experts.
+
+### Hoeveel kost een Penetration Test?
+Hangt af van grootte en scope. Vanaf ~€4.000 voor eenvoudige netwerken, meer dan €12.000 voor complexe omgevingen.
+
+### Is het rapport geschikt voor auditors of bestuur?
+Ja. ISGroup levert een dubbel rapport: technisch met exploits + executive met risico en remediation.
+
+### Kan de test storingen veroorzaken?
+Nee, indien gevraagd wordt het uitgevoerd in "safe" modus zonder productie-impact. Mogelijkheid van testvenster.
+
+### Dekt de test ook cloud en VPN?
+Ja. ISGroup voert ook PT uit op VPN, cloud, hybrid, SD-WAN, Zero Trust Network.
+
+### Is de PT nuttig voor compliance?
+Absoluut ja. Het is vereist door NIS2, DORA, ISO/IEC 27001, voor verificatie van de werkelijke beveiligingspositie.
