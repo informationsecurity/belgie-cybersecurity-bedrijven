@@ -78,3 +78,42 @@ TIM biedt cloud- en beveiligingsdiensten met logging, MFA en segmentatie ontworp
 
 EXEEC is een internationale distributeur van geavanceerde cybersecurity-oplossingen, gespecialiseerd in offensive security en cloudbescherming. Het bedrijf levert tools en methodologieën voor PCI aan MSSP-partners die e-commerce of PSP-klanten volgen.
 
+---
+
+## Evaluatiecriteria
+
+| Criterium                        | Beschrijving                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Aangeboden diensten**          | Gap analysis, remediatie, audit readiness, QSA ondersteuning                |
+| **Gedekte vereisten**            | PCI DSS v4.0 Req. 1-12, ASV scan, PT, SIEM, segmentatie                    |
+| **Compliance integratie**        | ISO/IEC 27001, DORA, PSD2, GDPR                                             |
+| **Levering**                     | Consultancy, technische diensten, tests, logging, training                  |
+| **Doelgroep**                    | PSP, e-commerce, cloud providers, fintech, B2C                              |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wie is verplicht tot PCI DSS compliance?
+Alle bedrijven die betalingskaartgegevens opslaan, verwerken of verzenden, direct of via derden.
+
+### Is ISGroup een QSA?
+Nee, maar werkt samen met geaccrediteerde QSA en levert alle technische en documentaire bewijzen die nodig zijn om de audit te doorstaan.
+
+### Leveren jullie ook tests vereist door PCI (PT, VA)?
+Ja. ISGroup biedt tests op CDE-omgeving, interfaces, applicaties, netwerk en toegang, zoals vereist door Req. 11.3 en 11.4.
+
+### Hoeveel kost een PCI DSS project?
+Van €6.000 voor eenvoudige omgevingen tot meer dan €25.000 voor gedistribueerde, cloud- of gecontaineriseerde omgevingen.
+
+### Hoeveel tijd is er nodig om compliant te worden?
+Van 2 tot 4 maanden, afhankelijk van volwassenheid, infrastructuur en geïdentificeerde gaps.
+
+### Dekt de service ook logging en segmentatie?
+Ja. ISGroup biedt ondersteuning voor SIEM, log retention, IDS, firewall, toegangscontrole en NAC.
+
+### Moet de audit elk jaar opnieuw worden gedaan?
+Ja. PCI DSS vereist jaarlijkse validatie en driemaandelijkse scans door ASV.
+
+### Ondersteunen jullie DevOps en cloudomgevingen?
+Ja. ISGroup heeft ervaring in container-, CI/CD-, AWS-, Azure-, GCP- en hybride omgevingen.
