@@ -78,3 +78,40 @@ EXEEC is een internationale distributeur gespecialiseerd in geavanceerde cyberse
 
 ---
 
+## Criteria voor evaluatie
+
+| Criterium                        | Beschrijving                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Target**                       | Web apps, mobile, netwerk, cloud, API, IoT, AD, OT                          |
+| **Methode**                      | Handmatig, echte TTP's, Red Team, APT simulatie                             |
+| **Ondersteunde compliance**      | NIS2, DORA, GDPR, ISO 27001, PCI DSS                                        |
+| **Certificeringen**              | OSCP, CRTO, CRTP, OSEP, CEH, ISO 27001                                      |
+| **Output**                       | Technisch rapport, executive, remediation, audit bewijs                     |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Penetration Test?
+Een handmatige test die cyberaanvallen simuleert op bedrijfsinfrastructuren om echte compromitteringswegen te identificeren.
+
+### Wat is de gemiddelde kostprijs?
+Van ~€3.500 voor eenvoudige omgevingen tot €15.000+ voor full-scope red teaming.
+
+### Hoe lang duurt het?
+Van 1 tot 4 weken, afhankelijk van scope, omgeving en type aanval.
+
+### Kan de test storingen veroorzaken?
+Het wordt afgestemd om niet-invasief te zijn. Providers bieden ook "veilige" modi en testvensters aan.
+
+### Is het nuttig voor openbare aanbestedingen?
+Ja. Rapporten zijn gedocumenteerd, ondertekend, gerefereerd en klaar om te worden bijgevoegd bij overheidsaanbestedingen of regelgevingsaudits.
+
+### Is de service terugkerend?
+Ja. Veel providers bieden ook PenTest-as-a-Service met continue beoordeling van de beveiligingspositie.
+
+### Welke certificeringen zijn belangrijk?
+Belangrijke certificeringen zijn onder andere OSCP, CEH, CISSP en ISO/IEC 27001.
+
+### Wanneer en waarom is het nodig?
+Het is nodig om de beveiliging van systemen te waarborgen, vooral in gereguleerde sectoren, en om te voldoen aan wettelijke vereisten zoals GDPR en NIS2.
