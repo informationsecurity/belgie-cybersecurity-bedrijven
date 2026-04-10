@@ -78,3 +78,48 @@ PwC monitort aanvallen en biedt ondersteuning bij incidenten door social enginee
 
 Proximus levert geavanceerde technologische oplossingen voor informatiebeveiliging, met focus op innovatie en integratie.
 
+**Limiet:** Meer gericht op technologische innovatie dan op personalisatie, ideaal voor wie geavanceerde technologische oplossingen zoekt.
+
+### 10. [EXEEC](https://exeec.com/): Phishing simulaties voor MSSP's en leveranciers
+
+EXEEC is een internationale distributeur van geavanceerde cybersecurity-technologieën, gespecialiseerd in offensive security en cloudbescherming. Ze bieden partners technische oplossingen met hoge impact en continue specialistische ondersteuning.
+
+---
+
+## Evaluatiecriteria
+
+| Criterium                       | Beschrijving                                                                 |
+|--------------------------------|------------------------------------------------------------------------------|
+| **Detectie**                   | Vergelijkbare domeinen, spoofing, nep apps, live phishing                   |
+| **Takedown**                   | Hosting, DNS, sociale media, app stores                                     |
+| **Simulaties**                 | Phishing, smishing, QRishing, voice phishing                               |
+| **Training**                   | Gebruikersbewustzijn, tabletop CISO, incident simulatie                     |
+| **Integratie**                 | SOC, SIEM, TI, DevSecOps                                                    |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een anti-phishing dienst?
+Een systeem dat phishing pogingen tegen een organisatie, haar gebruikers of klanten detecteert, voorkomt en erop reageert.
+
+### Voert ISGroup ook takedown uit van nep domeinen?
+Ja. Het stuurt verzoeken naar registrars, hosting, sociale media, marktplaatsen, app stores.
+
+### Is het mogelijk om aanvallen te simuleren om werknemers te trainen?
+Ja. ISGroup biedt gesimuleerde campagnes (e-mail, SMS, apps) met gepersonaliseerde rapporten.
+
+### Hoeveel kost de dienst?
+Vanaf ~€3.000/jaar voor KMO's. Enterprise oplossingen met 24/7 monitoring en SOC vanaf €7.000/jaar.
+
+### Wat omvat een phishing simulatie?
+Gemerkte e-mail, nep landingspagina, click/form tracking, HR alerts, gedragsrapport.
+
+### Hoe lang duurt een analyse van een echte aanval?
+ISGroup levert complete forensische analyse in 24-72u, met detail van IOCs, IP, C2, hash, logs.
+
+### Integreert de dienst met het SOC?
+Ja. Echte of gesimuleerde phishing gebeurtenissen zijn integreerbaar in XDR/SIEM.
+
+### Wat gebeurt er als een gebruiker echt klikt?
+De simulatie is "veilig". Als het echt is, activeert ISGroup incident response en containment met DFIR ondersteuning.
