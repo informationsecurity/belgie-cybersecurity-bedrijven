@@ -78,3 +78,46 @@ EXEEC is een internationale distributeur van geavanceerde beveiligingstechnologi
 
 ---
 
+## Evaluatiecriteria
+
+| Criterium                       | Beschrijving                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Technieken**                 | Tailgating, fake badge, social engineering, disable CCTV, plant device      |
+| **Assets**                     | Server room, datacenter, UPS, bewakingssystemen, toegangen, HVAC           |
+| **Bewijsmateriaal**            | Foto's, video's, logs, badges, toegangsregisters                           |
+| **Ondersteunde compliance**    | ISO/IEC 27001, GDPR, NIS2, PCI DSS                                         |
+| **Levering**                   | Fysieke test onsite, audit, remediatie, incident simulatie                 |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Physical Security Assessment?
+Een Physical Security Assessment is een evaluatie van de fysieke beveiligingsmaatregelen van een organisatie om kwetsbaarheden te identificeren en te verbeteren.
+
+### Wanneer en waarom is het nodig?
+Het is nodig wanneer een organisatie haar fysieke beveiliging wil verbeteren, voldoen aan regelgeving of zich wil beschermen tegen fysieke bedreigingen.
+
+### Wat is de gemiddelde kostprijs?
+De kosten variëren afhankelijk van de omvang en complexiteit van de evaluatie, maar kunnen variëren van enkele duizenden tot tienduizenden euro's.
+
+### Hoe kies je de juiste leverancier?
+Kies een leverancier op basis van hun technische competenties, ervaring, certificeringen en de mate waarin ze aan uw specifieke behoeften kunnen voldoen.
+
+### Welke certificeringen zijn belangrijk?
+Belangrijke certificeringen zijn onder andere ISO 27001, CPP, en andere relevante beveiligingscertificeringen die de competentie van de provider garanderen.
+
+### Hoe lang duurt een fysieke test?
+Van 1 tot 5 dagen onsite, plus rapportage.
+
+### Is het geschikt voor ISO/IEC 27001?
+Ja. Verifieert fysieke controles (A.9.1, A.11.1, A.11.2) vereist door ISO-standaarden en GDPR/NIS2 frameworks.
+
+### Wat als er een ernstige kwetsbaarheid wordt ontdekt?
+Providers bieden een remediatieplan, technische ondersteuning en documentatie voor snelle correcties.
+
+### Kan een insider aanval gesimuleerd worden?
+Ja. Tests kunnen fictief intern personeel of "vermomde" externe technici omvatten.
+
+### Is de service herhaalbaar?
+Ja. Aanbevolen elke 12 maanden of na wijzigingen in locaties, contracten of reorganisaties.
