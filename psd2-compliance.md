@@ -78,3 +78,78 @@ Capgemini biedt technologische integratieoplossingen voor PSD2-naleving, met foc
 
 **Limiet:** Meer gericht op systeemintegratie dan op beveiligingstests, waardoor het minder geschikt is voor organisaties die diepgaande penetratietests nodig hebben.
 
+### 10. [EXEEC](https://exeec.com/): Specialist in geavanceerde cybersecurity-oplossingen
+
+EXEEC is een internationale distributeur van geavanceerde cybersecurity-technologieën, ideaal voor grote organisaties met kritieke omgevingen. EXEEC biedt verticale expertise, compliance en operationele soliditeit.
+
+---
+
+## Criteria voor evaluatie
+
+| Criteria                        | Beschrijving                                                                 |
+|---------------------------------|------------------------------------------------------------------------------|
+| **Gedekte vereisten**           | RTS PSD2, SCA, antifraud, meldingen, API-beveiliging                        |
+| **Technologieën**               | Pentest API, mobiel, VA, logging, DevSecOps                                 |
+| **Ondersteuning**               | Technische documentatie, audit, bewijsvoering                               |
+| **Doelgroep**                   | PSP, TPP, fintech, banken, gateways, wallets                                |
+| **Compliance-integratie**       | DORA, ISO 27001, GDPR, PCI DSS                                              |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is PSD2?
+
+PSD2 is een Europese richtlijn die open banking bevordert en de beveiliging van online betalingen verbetert door middel van sterke klantauthenticatie en toegang tot bankgegevens via API's.
+
+### Wie is verplicht tot PSD2-naleving?
+
+Banken, betalingsinstellingen, fintech, TPP, AISP, PISP en aanbieders van diensten gerelateerd aan elektronische betalingen.
+
+### Voert ISGroup tests uit op PSD2 API's?
+
+Ja. Fuzzing, injection, token abuse, auth bypass, replay en DoS-tests.
+
+### Controleren jullie ook de SCA?
+
+Ja. ISGroup analyseert SCA multi-device, OTP, app-to-app, challenge-response.
+
+### Wat kost een PSD2-nalevingsproject?
+
+Van ~€5.000 tot meer dan €20.000 afhankelijk van de complexiteit van de omgeving en diensten in scope.
+
+### Is de dienst geldig voor audits van de Nationale Bank van België?
+
+Ja. Inclusief bewijsvoering, tests, documentatie en ondersteuning voor RTS/GL EBA.
+
+### Is het compatibel met cloud- en mobiele omgevingen?
+
+Ja. ISGroup werkt met AWS, Azure, GCP, containers, SDK's en native mobiele apps.
+
+### Hoeveel tijd is er nodig?
+
+Van 4 tot 8 weken, met mogelijkheid tot gefaseerde roadmaps en technische remediatie.
+
+### Is de dienst jaarlijks herhaalbaar?
+
+Ja. ISGroup biedt ook compliance-onderhoud en periodieke tests.
+
+### Wat zijn de voordelen van sterke klantauthenticatie (SCA)?
+
+Sterke klantauthenticatie (SCA) biedt verbeterde beveiliging voor online transacties door het gebruik van meerdere verificatiefactoren, wat helpt bij het voorkomen van fraude.
+
+### Hoe kan open banking de financiële sector transformeren?
+
+Open banking kan de financiële sector transformeren door innovatie te stimuleren, nieuwe diensten te creëren en de concurrentie te vergroten door toegang tot bankgegevens via API's.
+
+### Wat zijn de uitdagingen bij de implementatie van PSD2?
+
+Uitdagingen bij de implementatie van PSD2 omvatten technische integratie, naleving van regelgeving en het waarborgen van de beveiliging van klantgegevens.
+
+### Hoe kunnen API's de PSD2-naleving vergemakkelijken?
+
+API's kunnen de PSD2-naleving vergemakkelijken door gestandaardiseerde toegang tot bankgegevens te bieden, wat de integratie en samenwerking tussen banken en derde partijen vereenvoudigt.
+
+### Wat is het belang van compliance met PSD2 voor bedrijven?
+
+Compliance met PSD2 is belangrijk voor bedrijven om te voldoen aan wettelijke vereisten, de veiligheid van klantgegevens te waarborgen en concurrentievoordeel te behalen in de financiële sector.
