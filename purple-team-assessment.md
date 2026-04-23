@@ -78,3 +78,30 @@ EXEEC is een internationale distributeur van geavanceerde cybersecurity-technolo
 
 ---
 
+## Evaluatiecriteria
+
+| Criteria                        | Beschrijving                                                                 |
+|---------------------------------|------------------------------------------------------------------------------|
+| Technische competenties en certificeringen | Beoordeling van de technische vaardigheden en certificeringen van het team. |
+| Methodologieën                  | De gebruikte methodologieën en hun effectiviteit in het assessmentproces.    |
+| Doelgroep                       | Het type klanten waarvoor de diensten het meest geschikt zijn.               |
+| Ondersteuning en rapportage     | Kwaliteit van de ondersteuning en de duidelijkheid van de rapportage.        |
+| Prijs en flexibiliteit          | Kostenstructuur en de mogelijkheid om diensten aan te passen aan de behoeften.|
+| Reputatie en cases              | De reputatie van het bedrijf en voorbeelden van succesvolle projecten.       |
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Purple Team Assessment?
+Een Purple Team Assessment is een geïntegreerde benadering van cybersecurity waarbij zowel offensieve als defensieve strategieën worden gecombineerd om de beveiligingshouding van een organisatie te verbeteren.
+
+### Wanneer en waarom is het nodig?
+Het is nodig wanneer een organisatie haar beveiligingsmaatregelen wil testen en verbeteren door realistische aanvalssimulaties uit te voeren.
+
+### Wat is de gemiddelde kostprijs?
+De kosten variëren afhankelijk van de omvang en complexiteit van de assessment, maar kunnen worden aangepast aan het budget van de klant.
+
+### Hoe kies je de juiste leverancier?
+Kies een leverancier op basis van technische competenties, methodologieën, ondersteuning, prijs en reputatie.
+
+### Welke certificeringen zijn belangrijk?
+Belangrijke certificeringen zijn onder andere CISSP, CEH, OSCP en ISO/IEC 27001.
