@@ -78,3 +78,43 @@ Capgemini ondersteunt organisaties bij het implementeren van DORA-vereisten door
 
 **Limiet:** Meer gericht op grootschalige technologische implementaties, minder geschikt voor gespecialiseerde handmatige penetratietests.
 
+### 10. [EXEEC](https://exeec.com/): Specialist in geavanceerde cybersecurity-oplossingen
+
+EXEEC is een internationale distributeur van geavanceerde cybersecurity-technologieën, gespecialiseerd in offensive security en cloudbescherming. Ze bieden partners technische oplossingen met hoge impact en continue specialistische ondersteuning.
+
+---
+
+## Criteria voor evaluatie
+
+| Criterium                        | Beschrijving                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Gedekte vereisten**          | DORA Art. 5-55, ICT-risico, incidentrapportage, TLPT                        |
+| **Geavanceerde tests**         | PT, Red Teaming, SOC-testing, TLPT                                          |
+| **Monitoring**                 | Logging, anomaliedetectie, SIEM, SOC-as-a-Service                           |
+| **Governance en externe partijen** | Due diligence leveranciers, contractuele aspecten, ICT-outsourcing       |
+| **Audit-ondersteuning**        | Documentatie, bewijsvoering, rapportage aan toezichthouders                 |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wie valt onder DORA?
+Alle gereguleerde entiteiten: banken, beheermaatschappijen, verzekeraars, fintech, betalingsinstellingen, PSP's, CCP's, kritieke leveranciers.
+
+### Kan ISGroup ook ICT-leveranciers ondersteunen?
+Ja. ISGroup helpt leveranciers om de nodige houding te bereiken om diensten te verlenen aan DORA-gereguleerde onderwerpen.
+
+### Bieden jullie ook de door DORA vereiste tests (TLPT)?
+Ja. ISGroup voert red teaming, penetratietests en geavanceerde APT-simulaties uit, met bewijs en traceerbaarheid.
+
+### Hoe lang duurt een DORA-compliance project?
+Tussen 6 en 18 weken afhankelijk van de volwassenheid van de entiteit en de technische complexiteit.
+
+### Wat kost het?
+Van ~€12.000 tot meer dan €40.000 voor end-to-end projecten inclusief tests, documentatie en audit-ondersteuning.
+
+### Is jaarlijks testen verplicht?
+Ja. DORA vereist regelmatige tests (Bijlage I) en continue rapportage van relevante ICT-incidenten.
+
+### Is de service jaarlijks herhaalbaar?
+Ja. ISGroup biedt DORA compliance-as-a-service met continue updates, tests en leverancierscontrole.
