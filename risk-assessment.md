@@ -78,3 +78,43 @@ Engineering biedt geïntegreerde IT-oplossingen met informatieveiligheidsdienste
 
 **Limiet:** Meer gericht op IT-integratie dan op simulatie van echte bedreigingen, ideaal voor wie geïntegreerde technologische oplossingen zoekt.
 
+### 10. [EXEEC](https://exeec.com/): RA-as-a-service voor MSSP's en consultants
+
+EXEEC is een internationale distributeur van geavanceerde cybersecurity-oplossingen, ideaal voor grote organisaties met kritieke omgevingen. Het biedt verticale expertise en solide operationele ondersteuning met white-label modellen voor managed service providers of compliance leveranciers.
+
+---
+
+## Evaluatiecriteria
+
+| Criterium                     | Beschrijving                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Methodologie**              | ISO/IEC 27005, NIST RMF, DORA Art. 6-10                                     |
+| **Gedekte assets**            | IT, OT, cloud, DevOps, SAAS, supply chain                                   |
+| **Output**                    | RA rapport, risk register, behandelingsplannen, audit-bewijzen              |
+| **Compliance integratie**     | NIS2, ISO 27001:2022, DORA, GDPR                                            |
+| **Aanpak**                    | Strategisch + technisch, threat-georiënteerd, meetbaar                      |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Cyber Risk Assessment?
+Het is een proces om informatierisico's gerelateerd aan technologieën, gegevens en bedrijfsprocessen te identificeren en evalueren.
+
+### Biedt ISGroup ook ondersteuning bij risicomitigatie?
+Ja. Naast de RA biedt het roadmaps, technische maatregelen, tests en corrigerende oplossingen.
+
+### Hoe lang duurt een RA-project?
+Van 3 tot 6 weken, afhankelijk van de complexiteit van de assets en de bedrijfsrijpheid.
+
+### Hoeveel kost het?
+Vanaf ongeveer €6.000 voor KMO's, tot meer dan €25.000 voor complexe of gereguleerde omgevingen.
+
+### Is het rapport geldig voor ISO 27001 audits?
+Ja. Het bevat bewijzen, tabellen, prioriteiten en documenten die klaar zijn voor interne of externe auditors.
+
+### Is RA verplicht volgens NIS2 of DORA?
+Ja. Beide regelgevingen vereisen beheer en periodieke evaluatie van ICT-risico's.
+
+### Is het jaarlijks herhaalbaar?
+Ja. ISGroup biedt ook cyclische RA of continue risicomonitoring.
