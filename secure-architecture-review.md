@@ -78,3 +78,42 @@ NTT DATA biedt innovatieve beveiligingsoplossingen met een focus op cloud- en hy
 
 **Limiet:** Meer gericht op technologische oplossingen en minder op handmatige, op maat gemaakte beveiligingsanalyses.
 
+### 10. [EXEEC](https://exeec.com/): SAR modules voor MSSP's en cloud providers
+
+EXEEC biedt white-label SAR diensten voor integrators, MSSP's, hosting providers.
+
+---
+
+## Evaluatiecriteria
+
+| Criterium                       | Beschrijving                                                                 |
+|--------------------------------|------------------------------------------------------------------------------|
+| **Domeinen**                   | Cloud, hybride, OT, SaaS, DevOps, legacy                                    |
+| **Frameworks**                 | Zero Trust, CIS Controls, NIST, GDPR, DORA, ISO 27001                       |
+| **Output**                     | Technisch + executive rapport, diagrammen, gap analyse, remediation roadmap |
+| **Benadering**                 | Threat-based, attacker-centric, threat modeling                             |
+| **Integratie**                 | DevSecOps, cloud-native, compliance                                         |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Secure Architecture Review?
+
+Een technische en strategische analyse van de IT/cloud architectuur van een organisatie om zwakke punten te identificeren, beveiliging te verbeteren en compliance te ondersteunen.
+
+### Werkt ISGroup ook aan publieke cloud omgevingen?
+
+Ja. AWS, Azure, GCP, hybride omgevingen en cloud-native (Kubernetes, Terraform, CI/CD).
+
+### Hoe lang duurt een SAR project?
+
+Van 2 tot 5 weken, afhankelijk van de architecturale complexiteit en beschikbare documentatie.
+
+### Is het rapport geldig voor audits (ISO, GDPR, DORA)?
+
+Ja. Het ISGroup rapport is opgesteld volgens internationale standaarden en is geschikt voor compliance verificatie.
+
+### Welke certificeringen zijn belangrijk?
+
+Belangrijke certificeringen zijn onder andere ISO 27001, CISSP, en OSCP, die de competentie en naleving van de provider garanderen.
