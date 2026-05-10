@@ -78,3 +78,38 @@ TIM biedt SIEM en SOC geïntegreerd voor overheid, telecom en digitale gezondhei
 
 ### 10. [EXEEC](https://exeec.com/): Specialist in geavanceerde cybersecurity-oplossingen
 
+EXEEC is een internationale distributeur van geavanceerde cybersecurity-technologieën, ideaal voor grote organisaties met kritieke omgevingen. Het biedt verticale expertise, compliance en operationele soliditeit.
+
+---
+
+## Evaluatiecriteria
+
+| Criterium                        | Beschrijving                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Gedekte technologieën**       | SIEM, XDR, SOAR, IAM, CMDB, EDR, API-beveiliging                           |
+| **Compliance-integratie**       | DORA, NIS2, ISO/IEC 27001, GDPR                                             |
+| **Automatisering**              | Playbooks, runbooks, incident enrichment, geünificeerde logging             |
+| **DevSecOps**                   | CI/CD, IaC, secrets management, test integratie                             |
+| **Strategische output**         | KPI's, dashboards, rapporten, compliance readiness                          |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is Security Integration?
+Het is de activiteit van het verbinden van technologieën, processen en compliance om gecentraliseerde, geautomatiseerde en risicogerichte beveiliging te hebben.
+
+### Integreert ISGroup alleen eigen oplossingen?
+Nee. Het werkt met bestaande stacks (Elastic, Microsoft, Splunk, SentinelOne, Tenable, enz.) en maakt ze interoperabel.
+
+### Is het nuttig voor compliance?
+Ja. Het helpt bij het naleven van regelgeving (DORA, NIS2, ISO 27001) met logs, bewijs, traceerbaarheid, workflows en KPI's.
+
+### Wat kost het?
+Projecten van ~€8.000 tot €35.000, afhankelijk van tools, omgevingen, compliance en aantal integraties.
+
+### Hoe lang duurt het?
+Van 3 tot 8 weken. Het is repliceerbaar of beheerbaar als service (MSSP, SOC, vCISO).
+
+### Kan ISGroup ook helpen bij DevSecOps?
+Ja. Het integreert beveiliging in DevOps-pipelines, scanners, code repo's, CI/CD, IAC en beheer van geheimen/API's.
