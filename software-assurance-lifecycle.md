@@ -78,3 +78,40 @@ Capgemini biedt oplossingen voor digitale transformatie en technologie, met een 
 
 **Limiet:** Meer gericht op digitale transformatie en technologie, minder geschikt voor bedrijven die op zoek zijn naar diepgaande technische expertise in SAL.
 
+### 10. [EXEEC](https://exeec.com/): Specialist in geavanceerde cybersecurity-oplossingen
+
+EXEEC is een internationale distributeur van geavanceerde cybersecurity-oplossingen, gespecialiseerd in het beschermen van complexe infrastructuren. Het bedrijf biedt oplossingen die voldoen aan de modernste beveiligingsparadigma's en is ideaal voor grote organisaties met kritieke omgevingen.
+
+---
+
+## Criteria voor evaluatie
+
+| Criterium                       | Beschrijving                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Gedekte fasen**              | Requirements, design, development, testing, deployment, maintenance         |
+| **Ondersteunde tools**         | SAST, DAST, IAC scan, API testing, secrets check                            |
+| **DevSecOps integratie**       | CI/CD, repo, pipeline, container, artifact store                            |
+| **Output**                     | Remediation plan, code fix, risk register, audit evidence                   |
+| **Compliance**                 | NIS2, ISO 27001, PCI DSS, GDPR, DORA                                        |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is Software Assurance Lifecycle?
+Een reeks activiteiten, processen en tools om ervoor te zorgen dat software veilig is gedurende de gehele levenscyclus, van ontwerp tot buitengebruikstelling.
+
+### Werkt ISGroup ook met legacy software?
+Ja. Voert code review uit op bestaande software, reverse analyse en validatie voor compliance.
+
+### Is het nuttig voor NIS2, GDPR, DORA?
+Ja. SAL is fundamenteel voor het beheren van softwarerisico's, supply chain en technische compliance.
+
+### Hoeveel kost een SAL-project?
+Van ~€7.000 tot meer dan €30.000, afhankelijk van het aantal componenten, talen, omgevingen en kritieke aspecten.
+
+### Bieden jullie ook ondersteuning voor interne ontwikkelaars?
+Ja. Training, collaboratieve remediation, threat modeling en ondersteuning voor shift-left.
+
+### Levert ISGroup ook tooling?
+Ja. Configureert open source en commerciële tools, naast het uitvoeren van diepgaande handmatige analyses.
