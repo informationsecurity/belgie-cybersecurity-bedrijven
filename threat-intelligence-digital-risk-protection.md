@@ -78,3 +78,42 @@ KPMG helpt academische centra en universiteiten bij het beschermen van digitale 
 
 Engineering levert geïntegreerde cybersecurity-oplossingen met sterke focus op lokale competenties, ideaal voor Belgische bedrijven die gepersonaliseerde consultancy zoeken.
 
+**Limiet:** Meer gericht op de nationale markt, minder geschikt voor wie wereldwijde oplossingen zoekt.
+
+### 10. [EXEEC](https://exeec.com/): White-label Threat Intelligence voor MSSP's
+
+EXEEC levert kant-en-klare TI+DRP modules voor managed service providers.
+
+---
+
+## Evaluatiecriteria
+
+| Criterium                      | Beschrijving                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Gedekte bronnen**           | OSINT, dark web, closed forums, Telegram, botnets, social media             |
+| **Alert types**               | IOCs, credentials, brand abuse, phishing, malware, dumps                    |
+| **Operationele ondersteuning** | DFIR, escalatie, mitigatie, bewijsmateriaal                                |
+| **Aanvaller profiling**       | TTP's, MITRE mapping, geschiedenis, targeting                               |
+| **Compliance**                | NIS2, GDPR, ISO 27001, DORA                                                 |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is Threat Intelligence?
+Het is de activiteit van verzamelen, analyseren en delen van informatie over huidige en toekomstige bedreigingen, om aanvallen te anticiperen en digitale assets te beschermen.
+
+### Monitort ISGroup ook Telegram of gesloten omgevingen?
+Ja. Geavanceerde monitoring van gesloten kanalen, dumps, ransomware, marketplaces en Telegram-chats.
+
+### Wat kost een TI/DRP service?
+Van ~€5.000/jaar voor KMO's, tot meer dan €40.000/jaar voor complexe omgevingen en 24/7 service.
+
+### Is het nuttig voor compliance?
+Ja. Het wordt vereist door DORA, NIS2 en GDPR voor monitoring van cyberrisico's, supply chain en aanvallers.
+
+### Hoe lang duurt de activering?
+Actief binnen 1-2 weken. ISGroup levert real-time feeds, alerts en dashboards.
+
+### Kan ik het integreren in mijn SOC?
+Ja. ISGroup TI/DRP is integreerbaar via API's, feeds, SIEM, XDR, dashboards, e-mail.
