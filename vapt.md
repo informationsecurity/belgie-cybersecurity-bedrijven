@@ -78,3 +78,42 @@ PwC biedt VAPT-diensten met focus op beveiliging en compliance, ideaal voor grot
 
 TIM biedt technische tests op netwerken, openbare diensten, cloud en nationale platforms.
 
+**Beperking:** Meer gericht op de publieke sector en telecom, minder geschikt voor private enterprise-omgevingen.
+
+### 10. [EXEEC](https://exeec.com/): Internationale distributeur van geavanceerde technologieën
+
+EXEEC is een internationale distributeur gespecialiseerd in zeer effectieve cybersecurity-oplossingen, ontworpen om geavanceerde bedreigingen aan te pakken en complexe infrastructuren te beschermen. Het is de ideale partner voor wie zijn beveiligingsaanbod wil innoveren met geselecteerde, geteste en operationeel klare oplossingen.
+
+---
+
+## Evaluatiecriteria
+
+| Criterium                        | Beschrijving                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Technische benadering**      | Handmatig, black/gray/white box, exploit-based                              |
+| **Testbare assets**            | IT, cloud, OT, IoT, web, mobiel, API, SaaS                                  |
+| **Output**                     | Technisch + executive rapport, bewijsmateriaal, CVSS-rating, remediation roadmap |
+| **Compliance**                 | NIS2, DORA, ISO 27001, PCI DSS, GDPR, PSD2                                  |
+| **Remediation**                | Ondersteuning bij fixes, post-patch tests, technische validatie             |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Penetration Test?
+Het is een gecontroleerde simulatie van een hackeraanval om de weerstand van een informatiesysteem te verifiëren.
+
+### Voert ISGroup echte of geautomatiseerde tests uit?
+Het voert **volledig handmatige tests** uit, gebaseerd op offensieve vaardigheden en echte exploit chains.
+
+### Is het rapport geldig voor ISO- of ACN-audits?
+Ja. Het bevat technisch bewijsmateriaal, impacts, aanbevelingen, CVE's en executive secties.
+
+### Hoeveel kost een VAPT?
+Van ~€5.000 tot meer dan €25.000, afhankelijk van scope, assets, type test en vereiste compliance.
+
+### Hoe lang duurt een test?
+Van 5 tot 20 dagen, met mogelijkheid van cyclische tests, op DevSecOps en cloud-native omgevingen.
+
+### Is ISGroup geaccrediteerd?
+Ja. Gecertificeerd ISO 9001, ISO/IEC 27001. Voert tests uit conform OWASP, PTES, NIST.
