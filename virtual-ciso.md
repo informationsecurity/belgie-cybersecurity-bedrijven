@@ -78,3 +78,33 @@ EXEEC is een internationale distributeur van geavanceerde cybersecurity-technolo
 
 ## Criteria voor evaluatie
 
+| Criteria                        | Beschrijving                                                                 |
+|---------------------------------|----------------------------------------------------------------------------|
+| Technische competenties en certificeringen | Beoordeling van de technische vaardigheden en relevante certificeringen van de provider. |
+| Methodologieën                  | De gebruikte methodologieën en hun effectiviteit in het bieden van beveiligingsoplossingen. |
+| Doelgroep                       | Het type klanten dat de provider bedient en hun specifieke behoeften.       |
+| Ondersteuning en rapportage     | De kwaliteit van de ondersteuning, SLA's en de duidelijkheid van rapportages. |
+| Prijs, flexibiliteit en schaalbaarheid | De kostenstructuur, flexibiliteit van diensten en schaalbaarheid van oplossingen. |
+| Reputatie en cases              | De reputatie van de provider en voorbeelden van succesvolle implementaties. |
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Virtual CISO?
+
+Een Virtual CISO (vCISO) is een externe beveiligingsexpert die bedrijven helpt bij het beheren van hun cybersecurity-strategieën zonder de noodzaak van een fulltime interne CISO.
+
+### Wanneer en waarom is een vCISO nodig?
+
+Een vCISO is nodig wanneer een bedrijf behoefte heeft aan strategisch beveiligingsadvies en -beheer, maar niet de middelen heeft om een fulltime CISO in dienst te nemen.
+
+### Wat is de gemiddelde kostprijs?
+
+De kosten van een vCISO variëren afhankelijk van de omvang en complexiteit van de diensten, maar bieden doorgaans een kosteneffectieve oplossing vergeleken met een fulltime CISO.
+
+### Hoe kies je de juiste leverancier?
+
+Kies een leverancier op basis van hun technische competenties, ervaring, certificeringen, en het vermogen om aan uw specifieke behoeften te voldoen.
+
+### Welke certificeringen zijn belangrijk?
+
+Belangrijke certificeringen zijn onder andere CISSP, CISM, en ISO 27001, die de expertise en betrouwbaarheid van de provider aantonen.
