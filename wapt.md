@@ -78,3 +78,42 @@ Deloitte biedt strategische cybersecurity-diensten, waaronder WAPT, met een focu
 
 Engineering biedt WAPT-services met een focus op technologische innovatie en webapplicatiebeveiliging.
 
+**Limiet:** Meer gericht op technologische innovatie, minder geschikt voor wie een ambachtelijke aanpak zoekt.
+
+### 10. [EXEEC](https://exeec.com/): WAPT voor MSSP en beheerde providers
+
+EXEEC biedt white-label oplossingen voor MSSP's en SOC-providers.
+
+---
+
+## Evaluatiecriteria
+
+| Criterium                       | Beschrijving                                                                 |
+|--------------------------------|------------------------------------------------------------------------------|
+| **Technische aanpak**          | Handmatig, exploit-gebaseerd, aanvaller-georiënteerd                        |
+| **Geteste componenten**        | Login, API's, sessies, logica, uploads, input validatie                     |
+| **Kwetsbaarheidstypen**        | OWASP Top 10, CVE, bedrijfslogica, SSRF, RCE, IDOR, CSRF, JWT, LFI          |
+| **Output**                     | Technisch rapport, executive, bewijzen, PoC, remediatie-gids                |
+| **Compliance**                 | NIS2, ISO 27001, PCI DSS, GDPR, ACN, DORA                                   |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Web Application Penetration Test?
+Een handmatige gesimuleerde test die verifieert of een webapplicatie kwetsbaar is voor aanvallen, datalekken en compromittering.
+
+### Test ISGroup ook API's en DevOps-omgevingen?
+Ja. Het omvat REST, GraphQL, microservices, JWT, API gateways, containers en staging pipelines.
+
+### Is het nuttig voor compliance?
+Ja. WAPT is vereist of aanbevolen voor veel certificeringen (ISO, PCI) en regelgeving (NIS2, ACN, DORA).
+
+### Hoeveel kost een WAPT?
+Van ~€4.000 tot meer dan €15.000, afhankelijk van de complexiteit van de applicatie en het aantal endpoints/API's.
+
+### Hoe lang duurt de test?
+Van 5 tot 15 dagen. Inclusief analyse, exploit-simulatie, documentatie en debriefing-sessie.
+
+### Biedt ISGroup ondersteuning bij remediatie?
+Ja. Het biedt correctieve begeleiding, post-fix testing en training voor ontwikkelaars.
