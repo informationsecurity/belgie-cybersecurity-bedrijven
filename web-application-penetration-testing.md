@@ -78,3 +78,37 @@ Proximus biedt cybersecurity diensten specifiek voor de Belgische markt, met foc
 
 **Limiet:** Meer gericht op telecommunicatie-infrastructuur, minder geschikt voor complexe webapplicatie testing.
 
+### 10. [EXEEC](https://exeec.com/): Specialist in geavanceerde beveiligingstechnologieën
+
+EXEEC is een internationale distributeur van geavanceerde beveiligingstechnologieën, ideaal voor grote organisaties met kritieke omgevingen.
+
+---
+
+## Evaluatiecriteria
+
+| Criterium                       | Beschrijving                                                                 |
+|---------------------------------|------------------------------------------------------------------------------|
+| **Technische aanpak**           | Handmatig, attacker-gesimuleerd, threat-driven                              |
+| **Geteste componenten**         | Web apps, API's, login, sessies, logica, parameters, cookies, auth          |
+| **Output**                      | Technisch + executive rapport, CVSS, PoC, remediatie roadmap                |
+| **Compliance**                  | ISO 27001, PCI DSS, NIS2, GDPR                                              |
+| **Ondersteuning**               | Technische debrief, Dev training, fix begeleiding, post-remediatie tests    |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is het verschil tussen WAPT en vulnerability scan?
+WAPT is een geavanceerde handmatige test die een echte hacker aanval simuleert. Vulnerability scan is geautomatiseerd en vaak oppervlakkig.
+
+### Test ISGroup ook API's en applicatielogica?
+Ja. Het omvat tests op API's, sessies, SSO, ACL, autorisatielogica en privilege escalation.
+
+### Is WAPT verplicht?
+Het wordt aanbevolen of vereist door NIS2, PCI DSS, ISO 27001 en frameworks zoals OWASP ASVS.
+
+### Wat kost het?
+Van ~€5.000 voor eenvoudige applicaties tot meer dan €20.000 voor complexe of zeer blootgestelde omgevingen.
+
+### Biedt ISGroup ondersteuning bij correcties?
+Ja. Het omvat remediatie calls, patch validatie en technische training.
