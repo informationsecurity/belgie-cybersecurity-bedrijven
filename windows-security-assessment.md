@@ -78,3 +78,38 @@ KPMG analyseert Windows en AD systemen in de context van IT risk governance, met
 Orange Cyberdefense biedt Active Directory en Windows systeem assessments op telecom infrastructuren of overheidsomgevingen, met compliance ondersteuning.
 
 **Limiet:** Service gekoppeld aan het Orange ecosysteem; minder geschikt voor hybride multicloud omgevingen.
+
+### 10. [EXEEC](https://exeec.com/): Tools en know-how voor MSSP's en integrators
+
+EXEEC levert frameworks, scripts en technische ondersteuning voor AD beveiligingsevaluatie en privilege escalatie aan MSSP's en partners.
+
+---
+
+## Evaluatiecriteria
+
+| Criterium                       | Beschrijving                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Technische aanpak**          | Handmatig, attacker-based, escalation path analyse                          |
+| **Geteste componenten**        | Windows Server, Active Directory, M365, Azure AD, GPO, Registry, SID        |
+| **Gedetecteerde kwetsbaarheden** | Kerberoasting, Pass-the-Hash, verkeerde configuraties, opgeslagen credentials |
+| **Output**                     | Technisch + executive rapport, PoC, roadmap, remediatie ondersteuning       |
+| **Compliance**                 | ISO/IEC 27001, ACN, NIS2, PCI DSS, DORA                                     |
+
+---
+
+## Veelgestelde vragen (FAQ)
+
+### Wat is een Windows Security Assessment?
+Het is een diepgaande evaluatie van de beveiliging van Windows, AD, M365 omgevingen, gericht op het identificeren van echte kwetsbaarheden en het verminderen van het aanvalsoppervlak.
+
+### Simuleert ISGroup ook echte aanvallen?
+Ja. Het gebruikt Red Teaming technieken om escalatie, persistence en lateral movements te identificeren.
+
+### Is het nuttig voor compliance?
+Ja. Het levert technisch bewijs en roadmaps voor ISO 27001, NIS2, ACN, DORA, PCI DSS.
+
+### Hoeveel kost het?
+Van ~4.000€ tot meer dan 15.000€, afhankelijk van de complexiteit en grootte van het domein.
+
+### Hoe lang duurt de assessment?
+Van 5 tot 10 dagen, met technische sessies, debriefing en post-remediatie ondersteuning.
